@@ -8,7 +8,7 @@ Insert the key in the platerecognizer.java file to use it
 
 Then run platerecognizergui.java to use the app
 
-Limitation:
+# Limitation:
 
 File size should be less than 3MB
 
